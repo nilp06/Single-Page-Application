@@ -1,0 +1,47 @@
+.navbar {
+  position: fixed !important;
+}
+.navbar-section-wrapper {
+  position: relative;
+  height: fit-content;
+}
+.home-section {
+  height: 100vh;
+  background-color: rgba(177, 177, 241, 0.233);
+}
+.nav-link {
+  cursor: pointer;
+}
+
+.about-section {
+  height: 80vh;
+  padding: 10vh 10vw;
+}
+
+.about-us-content {
+  padding: 10vh 10vw;
+}
+
+.second-heading {
+  font-family: "Times New Roman", Times, serif;
+}
+.banner {
+  height: 50vh;
+  width: 50vw;
+}
+.careers-section {
+  background-color: rgba(0, 0, 255, 0.119);
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  text-align: center;
+  line-height: 3rem;
+}
+.careers-heading {
+  color: rgb(9, 84, 59);
+}
